@@ -6,6 +6,7 @@ This project is designed to use a short-time Fourier transformation of the data 
 
 ## Data
 Data is collected from https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification, Kaggle. However, since the file under the root ./Data/genres_original/jazz/jazz.00054.wav is a broken file, please replace it with the jazz.00054.wav file provided in the masterbanch of the repo.
+
 After download the dataset from the above link, please make sure the file KNN_FNN.ipynd is placed in the same folder level with the file features_30_sec.csv
 
 ## Code
