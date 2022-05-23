@@ -10,4 +10,4 @@ Data is collected from https://www.kaggle.com/datasets/andradaolteanu/gtzan-data
 After download the dataset from the above link, please make sure the file KNN_FNN.ipynd is placed in the same folder level with the file features_30_sec.csv
 
 ## Code
-The code is in the form of ipynd and is written via the Jupyter Notebook. It should also regenerate our model and result by running the files in a Jupyter Notebook. Before running the preprocessing part of each model, please modify the general_path value to the path of the Data folder of the dataset. The version of the librosa library we used are 0.9.1. It might cause failure if the version of the package is wrong. 
+The code is in the form of ipynd and is written via the Jupyter Notebook. It should also regenerate our model and result by running the files in a Jupyter Notebook. Before running the preprocessing part of each model, please modify the general_path value to the path of the Data folder of the dataset. The version of the librosa library we used are 0.9.1. It might cause failure if the version of the package is wrong.
