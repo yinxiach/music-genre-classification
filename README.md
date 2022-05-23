@@ -1,7 +1,7 @@
 # CSE676-music-genre-classification
 
 
-This project is designed to use a short-time Fourier transformation of the data to classify the genres of the music instead of directly training with the audio itself. The transformed data is then trained with a CNN model, FNN model, and an SVM machine. Several metrics evaluate the model’s performance, and we use the SVM machine to compare and measure the effectiveness and accuracy of the deep learning model. The models described in this project can be used to classify the genres of the music using a method that is different from the original way of training the audio data itself and can be used to develop further models to help look for the clear difference between different genres of music. 
+This project is designed to use a short-time Fourier transformation of the data to classify the genres of the music instead of directly training with the audio itself. The transformed data is then trained with a CNN model and an FNN model. Several metrics evaluate the model’s performance, and we use the FNN model that is evaluated by other features to compare and measure the effectiveness and accuracy of the deep learning model. We also introduced a KNN to evaluate if such transformation can provide a clear view of the characters that can be used to classify the music. The models described in this project can be used to classify the genres of the music using a method that is different from the original way of training the audio data itself and can be used to develop further models to help look for the clear difference between different genres of music.
 
 
 ## Data
